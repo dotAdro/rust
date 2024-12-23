@@ -1,0 +1,12 @@
+
+hello_world/.idea/
+
+.idea/
+
+hello_world/target/
+
+*.lock
+
+variables-and-mutability/target/
+
+data-types/target/
